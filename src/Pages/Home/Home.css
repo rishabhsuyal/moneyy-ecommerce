@@ -1,0 +1,22 @@
+.category-section-image{
+    display: flex;
+    width: 100%;  
+    justify-content: space-around;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+}
+.image-div-1{
+    margin: 5vw;
+    display: flex;
+    justify-content: center;
+    overflow: scroll;
+}
+.image-div-1::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.image-1{
+    width: 35%;
+    object-fit: contain;
+}

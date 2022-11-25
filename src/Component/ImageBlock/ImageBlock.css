@@ -1,0 +1,13 @@
+.category-image{
+    border-radius: 10px;
+    width: 9em;
+    height: 3.5em;
+    object-fit: cover;
+}
+.category-block{
+    
+}
+.category-block p{
+    text-align: center;
+    margin-top: 0.5em;
+}
